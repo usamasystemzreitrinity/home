@@ -1,0 +1,32 @@
+header{
+    background-color: var(--SkyBlue);
+    display: flex;
+    height: 5rem;
+    width: 100%;
+}
+.H_IconSpace{
+    align-items: center;
+    display: flex;
+    margin-left: 3rem;
+    width: 4rem;
+}
+.H_Icon{
+    aspect-ratio: 1/1;
+    display: flex;
+    width: 4rem;
+}
+.H_Icon a img{
+    aspect-ratio: 1/1;
+    width: 4rem;
+}
+.H_TitleSpace{
+    align-items: center;
+    display: flex;
+    margin-left: 3rem;
+    margin-right: auto;
+}
+.H_Title h1{
+    color: var(--White);
+    font-size: 3rem;
+    margin: 0;
+}

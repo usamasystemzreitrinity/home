@@ -1,0 +1,11 @@
+footer{
+    align-items: center;
+    background-color: var(--SkyBlue);
+    display: flex;
+    height: 10rem;
+    justify-content: center;
+    width: 100%;
+}
+.F_Name h1{
+    margin: 0;
+}
